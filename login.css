@@ -1,0 +1,52 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.form0
+{   margin-top: 100px;
+    width: 30%;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.form1
+{   width: 30%;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.btn-primary
+{
+    width: 100%;
+    border-radius: 20px;
+    background-color: black !important;
+}
+.bg
+{
+    background-image: url('slid1.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input
+{
+    border-bottom: 2px;
+}
+.container
+{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.res
+{
+    width: 350px;
+}
+.res1
+{
+    width: 350px;
+    height: 500px;
+}

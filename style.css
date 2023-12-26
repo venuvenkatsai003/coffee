@@ -1,0 +1,121 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    color: white;
+}
+body
+{
+    background-color: black !important;
+}
+h1
+{
+    color: white;
+    text-align: center;
+}
+form
+{   margin-top: 100px;
+    width: 30%;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.btn-primary
+{
+    width: 100%;
+    border-radius: 20px;
+    background-color: black !important;
+}
+img
+{
+    width: 250px;
+    height: 550px;
+}
+.nav
+{
+    display: flex;
+    background-color: black;
+    padding: 3px;
+    position: sticky;
+    top: 0;
+    cursor: pointer;
+    z-index: 5;
+    padding-top: 10px;
+}
+.nav ul
+{
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    margin-left: 150px;
+}
+.nav ul li
+{   text-decoration: none;
+    list-style: none;
+    float: left;
+    padding: 15px;
+}
+.nav ul li a
+{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    font-weight: bolder;
+}
+.nav ul li a:hover
+{
+    text-decoration: none;
+    color: rgb(155, 55, 19);
+    padding: 20px;
+    border-radius: 30px;
+}
+.l1
+{
+    font-size: 25px;
+}
+.ica
+{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.black
+{
+    color: black;
+}
+.l2
+{
+    font-size: 20px;
+}
+.con
+{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.head
+{
+    padding: 70px;
+}
+.box1
+{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.box2
+{
+    height: 220px;
+}
+.box3
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 35px;
+}
+html
+{
+    scroll-behavior: smooth;
+}
